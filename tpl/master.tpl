@@ -44,7 +44,6 @@
           <li><a href="https://gelatolabs.itch.io/mega-alberto-cousins" target="_blank" class="black-text">Mega Alberto Cousins</a></li>
           <li><a href="https://gelatolabs.itch.io/almost-bejeweled" target="_blank" class="black-text">Almost Bejeweled</a></li>
           <li><a href="https://gelatolabs.itch.io/sdbwvn" target="_blank" class="black-text">SDBWVN</a></li>
-          <li><a href="https://gelatolabs.itch.io/trump-jump" target="_blank" class="black-text">Trump Jump</a></li>
         </ul>
       </div>
     </nav>
