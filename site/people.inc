@@ -63,7 +63,7 @@
           </li>
           <li class="collection-item avatar">
             <img src="/img/mustafa.jpg" alt="mustafa" class="avatar-img">
-            <span class="title">Mustafa Abdul Razzaq</span>
+            <span class="title">Mustafa Abdul Razaq</span>
             <p>Programmer, Artist</p>
             <a href="https://mustafa.space/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
