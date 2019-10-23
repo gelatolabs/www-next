@@ -61,7 +61,7 @@ input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]
 }
 
 .collection .collection-item.avatar {
-  min-height: 0;
+  min-height: 0 !important;
 }
 
 .avatar-img {
