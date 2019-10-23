@@ -9,7 +9,7 @@
             <img src="/img/fire219.png" alt="fireTwoOneNine" class="avatar-img ">
             <span class="title">Matthew "fireTwoOneNine" Petry</span>
             <p>Artist, Musician, Programmer</p>
-            <a href="https://matthew.petrys.net/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <a href="http://matthew.petrys.net/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <img src="/img/krourke.png" alt="krourke" class="avatar-img ">
@@ -21,7 +21,7 @@
             <img src="/img/squid.jpg" alt="GelatoSquid" class="avatar-img ">
             <span class="title">Phil "GelatoSquid" St. Antoine</span>
             <p>Designer, Writer</p>
-            <a href="https://phil.guhnoo.org/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <a href="http://phil.guhnoo.org/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <span class="title">Matthew "mtrose42" Rose</span>
