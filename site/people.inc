@@ -34,6 +34,7 @@
           <li class="collection-item avatar">
             <span class="title">NickAtlas</span>
             <p>Artist</p>
+            <a href="https://www.instagram.com/reality_simulator/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <img src="/img/sandy.png" alt="Pegasauce" class="avatar-img ">
