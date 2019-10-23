@@ -24,8 +24,10 @@
             <a href="http://phil.guhnoo.org/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
-            <span class="title">Matthew "mtrose42" Rose</span>
+            <img src="/img/matt.png" alt="MTRooster" class="avatar-img">
+            <span class="title">Matt "MTRooster" Rose</span>
             <p>Writer, Programmer, Artist</p>
+            <a href="https://live.staticflickr.com/8507/8374802487_3d1b775a34_b.jpg" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <span class="title">DICEBlOCK</span>
