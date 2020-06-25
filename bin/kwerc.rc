@@ -38,7 +38,6 @@ fn kwerc_exec_request {
     local_file=''
     ifs='/' { args=`{echo -n $req_path} }
     master_template=`{get_tpl_file master.tpl}
-dprint $master_template
 
     if(~ $req_path */index)
         perm_redirect `{echo $req_path | sed 's,/index$,/,'}

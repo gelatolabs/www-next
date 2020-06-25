@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "rel": "urn:xmpp:alt-connections:xbosh",
+      "href": "https://gelatolabs.xyz:5443/bosh"
+    },
+    {
+      "rel": "urn:xmpp:alt-connections:websocket",
+      "href": "wss://gelatolabs.xyz:5443/ws"
+    }
+  ]
+}
