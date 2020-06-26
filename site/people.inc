@@ -9,7 +9,7 @@
             <img src="/img/fire219.png" alt="fireTwoOneNine" class="avatar-img">
             <span class="title">Matthew "fireTwoOneNine" Petry</span>
             <p>Artist, Musician, Programmer</p>
-            <a href="http://matthew.petrys.net/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <a href="http://fire219.github.io" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <img src="/img/krourke.png" alt="krourke" class="avatar-img">
