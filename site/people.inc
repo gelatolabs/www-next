@@ -12,22 +12,27 @@
             <a href="http://fire219.github.io" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
+            <img src="/img/matt.png" alt="MTRooster" class="avatar-img">
+            <span class="title">Matt "MTRooster" Rose</span>
+            <p>Writer, Programmer, Artist</p>
+            <a href="https://live.staticflickr.com/8507/8374802487_3d1b775a34_b.jpg" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+          </li>
+          <li class="collection-item avatar">
             <img src="/img/krourke.png" alt="krourke" class="avatar-img">
             <span class="title">Keefer "krourke" Rourke</span>
             <p>Programmer</p>
             <a href="https://krourke.org/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
-            <img src="/img/squid.jpg" alt="GelatoSquid" class="avatar-img">
-            <span class="title">Phil "GelatoSquid" St. Antoine</span>
-            <p>Designer, Writer</p>
-            <a href="http://phil.guhnoo.org/" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <img src="/img/aliciana.png" alt="aliciana" class="avatar-img">
+            <span class="title">Alice "Aliciana" Dalton</span>
+            <p>Musician</p>
+            <a href="https://soundcloud.com/notanarchy" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
-            <img src="/img/matt.png" alt="MTRooster" class="avatar-img">
-            <span class="title">Matt "MTRooster" Rose</span>
-            <p>Writer, Programmer, Artist</p>
-            <a href="https://live.staticflickr.com/8507/8374802487_3d1b775a34_b.jpg" target="_blank" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <img src="/img/rrefcio.jpg" alt="rrefcio" class="avatar-img">
+            <span class="title">Ryan Refcio</span>
+            <p>Designer, Writer</p>
           </li>
           <li class="collection-item avatar">
             <span class="title">DICEBlOCK</span>
